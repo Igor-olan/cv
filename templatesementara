@@ -1,0 +1,4 @@
+                            <div className="flex flex-col items-left ml-5 mt-4">
+                                <h3 className="mb-1 text-xl font-medium text-white">Igor Hasiholan Malachi P.</h3>
+                                <span className="text-sm text-white">Software Engineer</span>
+                            </div>
